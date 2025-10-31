@@ -439,10 +439,8 @@ The transition matrix reveals typical activity sequences:
 
 ### Team Members
 
-| Name | Role | Contribution |
-|------|------|--------------|
-| [Your Name] | Lead Developer | Model implementation, evaluation |
-| [Partner Name] | Data Scientist | Feature engineering, data collection |
+Cyusa Loic
+Eddy Angelo 
 
 ### Task Allocation
 
