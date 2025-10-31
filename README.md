@@ -1,8 +1,5 @@
 # Human Activity Recognition with Hidden Markov Models
 
-[![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Complete-success.svg)]()
 
 ## 📋 Table of Contents
 
