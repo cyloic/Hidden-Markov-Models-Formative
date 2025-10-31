@@ -439,7 +439,7 @@ The transition matrix reveals typical activity sequences:
 
 ### Team Members
 
-Cyusa Loic
+Cyusa Loic,
 Eddy Angelo 
 
 ### Task Allocation
@@ -450,11 +450,7 @@ Eddy Angelo
 - **Evaluation & Visualization**: [Both]
 - **Documentation**: [Both]
 
-### GitHub Contributions
-```
-[Team Member 1]: 45 commits
-[Team Member 2]: 43 commits
-```
+
 
 Balanced collaboration with both members contributing significantly to code and documentation.
 
@@ -462,19 +458,9 @@ Balanced collaboration with both members contributing significantly to code and 
 
 This project is part of university coursework. All rights reserved for educational purposes.
 
-## 🙏 Acknowledgments
-
-- Course Instructor: [Instructor Name]
-- Dataset contributors: [Team members]
-- Open-source libraries: NumPy, Pandas, Scikit-learn, HMMLearn
-
 ---
 
-### 📧 Contact
 
-For questions or collaboration:
-- **Email**: [your.email@university.edu]
-- **GitHub**: [@yourusername](https://github.com/yourusername)
 
 ---
 
