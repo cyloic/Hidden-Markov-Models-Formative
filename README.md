@@ -289,7 +289,7 @@ Detailed breakdown of classification performance.
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/activity-recognition-hmm.git
+git clone https://github.com/cyloic/activity-recognition-hmm.git
 cd activity-recognition-hmm
 ```
 
